@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="Assets/logo.svg" alt="BeltCare Logo " width="90">
+  <img src="BeltCare-main/Assets/logo.svg" alt="BeltCare Logo " width="90">
 </p>
 
 
@@ -34,7 +34,7 @@
 ## 🧩 CAD Model
 
 <p align="center">
-  <img src="Assets/BeltCare-main/BeltCare_Final_Clean_4K.gif" alt="BeltCare CAD Model" width="900">
+  <img src="BeltCare-main/Assets/BeltCare_Final_Clean_4K.gif" alt="BeltCare CAD Model" width="900">
 </p>
 
 # 🎯 Executive Summary
@@ -202,7 +202,7 @@ Real-time signals from **vibration, thermal, acoustic, tension, tracking, motor 
 
 
 <p align="center">
-  <img src="Assets/IMG-20261003-WA0050.jpg" width="100%">
+  <img src="BeltCare-main/Assets/IMG-20261003-WA0050.jpg" width="100%">
 </p>
 
 # 🛠️ Technology Stack
@@ -282,7 +282,7 @@ BeltCare combines industrial sensing, edge computing, AI/ML, real-time analytics
 - GitHub Copilot — AI-assisted development
 
   <p align="center">
-  <img src="Assets/IMG-20261003-WA0047.jpg" width="100%">
+  <img src="BeltCare-main/Assets/IMG-20261003-WA0047.jpg" width="100%">
 </p>
 
 ## 📊 Dashboard & Monitoring
@@ -296,7 +296,7 @@ Show what the dashboard does:
 
 
  <p align="center">
-  <img src="Assets/WhatsApp Image 2026-10-04 at 18.38.55.jpeg" width="100%">
+  <img src="BeltCare-main/Assets/WhatsApp Image 2026-10-04 at 18.38.55.jpeg" width="100%">
 </p>
 
 ### Monitoring Status
@@ -618,7 +618,7 @@ Watch our complete project presentation to understand the problem, solution, arc
 
 <div align="center">
 
-<img src="Assets/TEAM LOGO.jpg" width="90"/>
+<img src="BeltCare-main/Assets/TEAM LOGO.jpg" width="90"/>
 
 
 
