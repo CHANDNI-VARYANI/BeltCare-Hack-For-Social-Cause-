@@ -37,6 +37,11 @@
   <img src="BeltCare-main/Assets/BeltCare_Final_Clean_4K.gif" alt="BeltCare CAD Model" width="900">
 </p>
 
+## 🧩 Technical Design ( Architectural Diagram )
+<p align="center">
+  <img src="Assets/BeltCare-main/Architecture.png" alt="BeltCare CAD Model" width="900">
+</p>
+
 # 🎯 Executive Summary
 
 **BeltCare** is a hybrid **Hardware + AI + IoT + Software** platform designed for continuous monitoring and predictive maintenance of conveyor belts and belt joints used in mining and bulk-material handling.
