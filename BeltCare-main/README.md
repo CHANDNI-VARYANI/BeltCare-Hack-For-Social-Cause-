@@ -9,28 +9,24 @@
 
 ### BELTCARE : AI-Powered Structural Health Monitoring & Predictive Maintenance System for Conveyor Belts
 
-**Smart India Hackathon 2026 • SIH26008 • Smart Automation • Hardware**
+**Hack For Social Cause (VBYLD 2026) • Smart Automation • Hardware • Software**
 
 <br>
 
-[![Smart India Hackathon](https://img.shields.io/badge/Smart%20India%20Hackathon-2026-blue)]()
-[![Problem Statement](https://img.shields.io/badge/SIH-SIH26008-orange)]()
-[![Theme](https://img.shields.io/badge/Theme-Smart%20Automation-green)]()
 [![Category](https://img.shields.io/badge/Category-Hardware-red)]()
 [![AI](https://img.shields.io/badge/AI-Edge%20AI-purple)]()
 [![IoT](https://img.shields.io/badge/IoT-Multi--Sensor-blue)]()
 [![License](https://img.shields.io/badge/License-MIT-yellow)]()
 
-## 🇮🇳 Smart India Hackathon 2026
+## 🇮🇳 Hack For Social Cause (VBYLD 2026)
 
 | | Details |
 |---|---|
-| **Problem Statement ID** | SIH26008 |
+| **Registration ID** | HSCRJ00116 |
 | **Problem Statement** | Belt Joint Rupture and Conveyor Belt Damages in Iron Ore Mining Industry |
-| **Theme** | Smart Automation |
+| **Theme** | AI, GIS and Emerging Technologies |
 | **Category** | Hardware |
 | **Team** | Teen Titans |
-| **Team ID** | 181546 |
 | **Solution Type** | Hardware + Edge AI + IoT + Software |
 
 
