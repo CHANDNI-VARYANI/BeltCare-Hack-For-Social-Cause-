@@ -39,7 +39,7 @@
 
 ## 🧩 Technical Design ( Architectural Diagram )
 <p align="center">
-  <img src="Assets/BeltCare-main/Architecture.png" alt="BeltCare CAD Model" width="900">
+  <img src="BeltCare-main/Assets/BeltCare-main/Architecture.png" alt="BeltCare CAD Model" width="900">
 </p>
 
 # 🎯 Executive Summary
