@@ -27,6 +27,7 @@
 | **Theme** | AI, GIS and Emerging Technologies |
 | **Category** | Hardware |
 | **Team** | Teen Titans |
+| **State** | Rajasthan |
 | **Solution Type** | Hardware + Edge AI + IoT + Software |
 
 
